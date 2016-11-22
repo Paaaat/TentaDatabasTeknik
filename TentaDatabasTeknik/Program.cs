@@ -10,6 +10,7 @@ namespace TentaDatabasTeknik
     {
         static void Main(string[] args)
         {
+            //Tenta
         }
     }
 }
