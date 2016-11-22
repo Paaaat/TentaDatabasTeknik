@@ -10,7 +10,7 @@ namespace TentaDatabasTeknik
     {
         static void Main(string[] args)
         {
-            //TentaDatabasTeknikf
+            //TentaDatabasTeknik
         }
     }
 }
