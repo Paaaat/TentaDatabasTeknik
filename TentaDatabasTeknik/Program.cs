@@ -14,11 +14,11 @@ namespace TentaDatabasTeknik
 
         static void Main(string[] args)
         {
-            //ProductsByCategoryName("Confections");
-                             SalesByTerritory();
+           //ProductsByCategoryName("Confections");
+           //SalesByTerritory();
            // EmployeesPerRegion();
-            //OrdersPerEmployye();
-            //CustomerWithNameLongerThen25Characters();
+           //OrdersPerEmployye();
+           //CustomerWithNameLongerThen25Characters();
         }
 
         private static void CustomerWithNameLongerThen25Characters()
